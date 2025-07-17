@@ -16,6 +16,6 @@ Visualisaties: Barplots, boxplots en KDE-plots ter ondersteuning van inzichten.
 
 Outlier Detectie: Identificatie van uitschieters in numerieke data.
 
-Conclusie
+## Conclusie
 De analyse toont dat ontbrekende TotalCharges waarden verband houden met klanten met een tenure van 0. Deze zijn logisch opgevuld met 0. Verder worden belangrijke inzichten gepresenteerd over welke variabelen churn het meest beïnvloeden.
 
