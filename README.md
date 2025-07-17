@@ -1,7 +1,7 @@
-#Telco Customer Churn Analyse
+# Telco Customer Churn Analyse
 Dit project bevat een uitgebreide Exploratory Data Analysis (EDA) van de Telco Customer Churn dataset. Het doel is om inzicht te krijgen in klantverloop (churn) en de factoren die hierop van invloed zijn.
 
-##Inhoud
+## Inhoud
 Data Inladen: CSV-bestand inlezen en voorbereidende bewerkingen.
 
 Categorische en Numerieke Variabelen: Analyse van frequenties, gemiddelden en verdelingen.
